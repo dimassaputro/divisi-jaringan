@@ -3,7 +3,7 @@ Divisi jaringan berkonsentrasi untuk mengelola jaringan komputer, internet serta
 <h3>Koordinator :</h3>
 - Muhammad Dimas Saputro <br>
 - Eka Wahyu Budi Santoso
-<h3>Silabus</h3>
+<h3>Silabus :</h3>
 - Pengenalan Jaringan Komputer <br>
 - Pengenalan IP Addressing & Subnetting <br>
 - Pengkabelan <br>
