@@ -8,6 +8,10 @@ Divisi jaringan berkonsentrasi untuk mengelola jaringan komputer, internet serta
 - Pengenalan IP Addressing & Subnetting <br>
 - Pengkabelan <br>
 - Linux Shell <br>
-
+- Cisco : <br>
+    - Routing <br>
+- Mikrotik :<br>
+    - Proxy <br>
+- Server <br>
 <h3>Link Pendukung :</h3>
 - Server Wold : https://www.server-world.info/en/
