@@ -22,7 +22,8 @@ Divisi jaringan berkonsentrasi untuk mengelola jaringan komputer, internet serta
             <li>Proxy</li>
     </ul>
     <li>Server</li>
-    
+</ul>
+
 <h3>Link Pendukung :</h3>
 <ul>
     <li>Server Wold : https://www.server-world.info/en</li>
