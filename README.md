@@ -22,6 +22,21 @@ Divisi jaringan berkonsentrasi untuk mengelola jaringan komputer, internet serta
             <li>Proxy</li>
     </ul>
     <li>Server</li>
+        <ul>
+            <li>Pengenalan Server</li>
+            <li>Install CentOS dan Konfigurasi Jaringan</li>
+            <li>NTP Server dan Client</li>
+            <li>SSH Server</li>
+            <li>DNS Sever</li>
+            <li>DHCP Server</li>
+            <li>Storage Server</li>
+            <li>Docker</li>
+            <li>Web Server</li>
+            <li>Database</li>
+            <li>FTP Server</li>
+            <li>Mail Server</li>
+            <li>Proxy</li>
+    </ul>
 </ul>
 
 <h3>Link Pendukung :</h3>
