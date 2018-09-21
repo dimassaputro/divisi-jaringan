@@ -16,6 +16,7 @@ Divisi jaringan berkonsentrasi untuk mengelola jaringan komputer, internet serta
     <li>Cisco :</li>
         <ul>
             <li>Routing</li>
+            <li>NAT di Cisco</li>
         </ul>
     <li>Mikrotik :</li>
         <ul>
