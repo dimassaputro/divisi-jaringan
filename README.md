@@ -20,6 +20,9 @@ Divisi jaringan berkonsentrasi untuk mengelola jaringan komputer, internet serta
     <li>Mikrotik :</li>
         <ul>
             <li>Proxy</li>
+            <li>Bandwith Management</li>
+            <li>Konfigurasi DHCP Server</li>
+            <li>Konigurasi Access Point</li>
     </ul>
     <li>Server</li>
         <ul>
