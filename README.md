@@ -18,8 +18,12 @@ Divisi jaringan berkonsentrasi untuk mengelola jaringan komputer, internet serta
             <li>Routing</li>
         </ul>
     <li>Mikrotik :</li>
-</ul>
-    - Proxy <br>
-- Server <br>
+        <ul>
+            <li>Proxy</li>
+    </ul>
+    <li>Server</li>
+    
 <h3>Link Pendukung :</h3>
-- Server Wold : https://www.server-world.info/en/
+<ul>
+    <li>Server Wold : https://www.server-world.info/en</li>
+</ul>
