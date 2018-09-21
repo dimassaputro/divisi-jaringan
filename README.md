@@ -4,8 +4,14 @@ Divisi jaringan berkonsentrasi untuk mengelola jaringan komputer, internet serta
 - Muhammad Dimas Saputro <br>
 - Eka Wahyu Budi Santoso
 <h3>Silabus :</h3>
-- Pengenalan Jaringan Komputer <br>
-- Pengenalan IP Addressing & Subnetting <br>
+<ul>
+    <li>
+        - Pengenalan Jaringan Komputer
+    </li>
+    <li>
+        - Pengenalan IP Addressing & Subnetting
+    </li>
+</ul>
 - Pengkabelan <br>
 - Linux Shell <br>
 - Cisco : <br>
