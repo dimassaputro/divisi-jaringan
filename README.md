@@ -41,6 +41,7 @@ Divisi jaringan berkonsentrasi untuk mengelola jaringan komputer, internet serta
             <li>Mail Server</li>
             <li>Proxy</li>
     </ul>
+    <li>Keamanan Jaringan</li>
 </ul>
 
 <h3>Link Pendukung :</h3>
